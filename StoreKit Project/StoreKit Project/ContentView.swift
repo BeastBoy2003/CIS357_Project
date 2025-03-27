@@ -18,7 +18,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Welcome to our Card Game!")
             
-            Button(showList ? "hide List" : "Show List") {
+            Button(showList ? "Back" : "Click To Play") {
                 showList.toggle()
             }
             .padding()
