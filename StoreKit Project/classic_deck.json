@@ -1,0 +1,405 @@
+{
+    "deck": "Classic Deck",
+    "cards": [
+        {
+            "id": 1,
+            "question": "What\u2019s your favorite season and why?"
+        },
+        {
+            "id": 2,
+            "question": "Do you prefer the beach or the mountains?"
+        },
+        {
+            "id": 3,
+            "question": "What\u2019s your go-to comfort food?"
+        },
+        {
+            "id": 4,
+            "question": "Would you rather read a book or watch a movie?"
+        },
+        {
+            "id": 5,
+            "question": "What\u2019s a skill you\u2019d like to learn someday?"
+        },
+        {
+            "id": 6,
+            "question": "Do you prefer mornings or nights?"
+        },
+        {
+            "id": 7,
+            "question": "What\u2019s one thing you never leave the house without?"
+        },
+        {
+            "id": 8,
+            "question": "What was your favorite subject in school?"
+        },
+        {
+            "id": 9,
+            "question": "What\u2019s your ideal way to spend a weekend?"
+        },
+        {
+            "id": 10,
+            "question": "Do you prefer coffee or tea?"
+        },
+        {
+            "id": 11,
+            "question": "What\u2019s a country you\u2019d love to visit?"
+        },
+        {
+            "id": 12,
+            "question": "Do you enjoy cooking or ordering takeout more?"
+        },
+        {
+            "id": 13,
+            "question": "What kind of music do you listen to most?"
+        },
+        {
+            "id": 14,
+            "question": "Are you more of a cat person or a dog person?"
+        },
+        {
+            "id": 15,
+            "question": "What\u2019s your favorite type of weather?"
+        },
+        {
+            "id": 16,
+            "question": "Do you enjoy traveling or staying close to home?"
+        },
+        {
+            "id": 17,
+            "question": "What\u2019s one hobby you\u2019ve always wanted to try?"
+        },
+        {
+            "id": 18,
+            "question": "What\u2019s your favorite type of dessert?"
+        },
+        {
+            "id": 19,
+            "question": "Do you prefer texting or calling?"
+        },
+        {
+            "id": 20,
+            "question": "What\u2019s your favorite holiday?"
+        },
+        {
+            "id": 21,
+            "question": "What\u2019s one thing you\u2019re really good at?"
+        },
+        {
+            "id": 22,
+            "question": "Do you enjoy board games or video games more?"
+        },
+        {
+            "id": 23,
+            "question": "What\u2019s your favorite type of movie?"
+        },
+        {
+            "id": 24,
+            "question": "Do you like working alone or in a group?"
+        },
+        {
+            "id": 25,
+            "question": "What\u2019s a TV show you could rewatch anytime?"
+        },
+        {
+            "id": 26,
+            "question": "Do you like spicy food?"
+        },
+        {
+            "id": 27,
+            "question": "What\u2019s one goal you have for this year?"
+        },
+        {
+            "id": 28,
+            "question": "Do you prefer sweet or savory snacks?"
+        },
+        {
+            "id": 29,
+            "question": "What\u2019s your favorite sport to watch or play?"
+        },
+        {
+            "id": 30,
+            "question": "What\u2019s one thing that always makes you smile?"
+        },
+        {
+            "id": 31,
+            "question": "Do you enjoy being outdoors?"
+        },
+        {
+            "id": 32,
+            "question": "What\u2019s your favorite pizza topping?"
+        },
+        {
+            "id": 33,
+            "question": "Are you more productive in the morning or at night?"
+        },
+        {
+            "id": 34,
+            "question": "Do you like planning things or being spontaneous?"
+        },
+        {
+            "id": 35,
+            "question": "What\u2019s your favorite ice cream flavor?"
+        },
+        {
+            "id": 36,
+            "question": "Do you enjoy museums or amusement parks more?"
+        },
+        {
+            "id": 37,
+            "question": "What\u2019s your favorite way to relax?"
+        },
+        {
+            "id": 38,
+            "question": "Do you like learning new languages?"
+        },
+        {
+            "id": 39,
+            "question": "What\u2019s your dream job?"
+        },
+        {
+            "id": 40,
+            "question": "What\u2019s your favorite thing to do on a rainy day?"
+        },
+        {
+            "id": 41,
+            "question": "Do you prefer city life or country life?"
+        },
+        {
+            "id": 42,
+            "question": "What\u2019s your favorite childhood cartoon?"
+        },
+        {
+            "id": 43,
+            "question": "Do you prefer sunrise or sunset?"
+        },
+        {
+            "id": 44,
+            "question": "What\u2019s your favorite season of the year?"
+        },
+        {
+            "id": 45,
+            "question": "Do you prefer staying in or going out on weekends?"
+        },
+        {
+            "id": 46,
+            "question": "What\u2019s your favorite type of cuisine?"
+        },
+        {
+            "id": 47,
+            "question": "Do you prefer books or audiobooks?"
+        },
+        {
+            "id": 48,
+            "question": "What\u2019s one thing you\u2019re looking forward to?"
+        },
+        {
+            "id": 49,
+            "question": "Do you enjoy crafting or DIY projects?"
+        },
+        {
+            "id": 50,
+            "question": "What\u2019s a movie you\u2019ve watched multiple times?"
+        },
+        {
+            "id": 51,
+            "question": "Do you enjoy going to the gym or working out at home?"
+        },
+        {
+            "id": 52,
+            "question": "What\u2019s one thing that helps you stay organized?"
+        },
+        {
+            "id": 53,
+            "question": "Do you prefer gold or silver jewelry?"
+        },
+        {
+            "id": 54,
+            "question": "What\u2019s your favorite fruit?"
+        },
+        {
+            "id": 55,
+            "question": "Do you like taking photos or being in them?"
+        },
+        {
+            "id": 56,
+            "question": "What\u2019s your favorite way to celebrate your birthday?"
+        },
+        {
+            "id": 57,
+            "question": "Do you like horror movies or comedies?"
+        },
+        {
+            "id": 58,
+            "question": "What\u2019s your favorite app on your phone?"
+        },
+        {
+            "id": 59,
+            "question": "Do you prefer swimming in a pool or in the ocean?"
+        },
+        {
+            "id": 60,
+            "question": "What\u2019s your favorite snack to bring on a road trip?"
+        },
+        {
+            "id": 61,
+            "question": "Do you enjoy puzzles or brain teasers?"
+        },
+        {
+            "id": 62,
+            "question": "What\u2019s one thing that always cheers you up?"
+        },
+        {
+            "id": 63,
+            "question": "Do you prefer reading fiction or nonfiction?"
+        },
+        {
+            "id": 64,
+            "question": "What\u2019s your favorite thing to do on a day off?"
+        },
+        {
+            "id": 65,
+            "question": "Do you like trying new foods or sticking to your favorites?"
+        },
+        {
+            "id": 66,
+            "question": "What\u2019s your favorite sandwich ingredient?"
+        },
+        {
+            "id": 67,
+            "question": "Do you prefer working with your hands or on a computer?"
+        },
+        {
+            "id": 68,
+            "question": "What\u2019s your favorite icebreaker question?"
+        },
+        {
+            "id": 69,
+            "question": "Do you enjoy listening to podcasts?"
+        },
+        {
+            "id": 70,
+            "question": "What\u2019s a fun fact you recently learned?"
+        },
+        {
+            "id": 71,
+            "question": "Do you prefer action or drama movies?"
+        },
+        {
+            "id": 72,
+            "question": "What\u2019s your favorite outdoor activity?"
+        },
+        {
+            "id": 73,
+            "question": "Do you like attending live concerts or watching from home?"
+        },
+        {
+            "id": 74,
+            "question": "What\u2019s your go-to breakfast food?"
+        },
+        {
+            "id": 75,
+            "question": "Do you prefer writing or drawing?"
+        },
+        {
+            "id": 76,
+            "question": "What\u2019s one thing you enjoy about your daily routine?"
+        },
+        {
+            "id": 77,
+            "question": "Do you enjoy decorating for holidays?"
+        },
+        {
+            "id": 78,
+            "question": "What\u2019s your favorite type of soup?"
+        },
+        {
+            "id": 79,
+            "question": "Do you prefer early mornings or late nights?"
+        },
+        {
+            "id": 80,
+            "question": "What\u2019s your favorite season for fashion?"
+        },
+        {
+            "id": 81,
+            "question": "Do you like road trips or flying better?"
+        },
+        {
+            "id": 82,
+            "question": "What\u2019s one thing you\u2019re currently saving up for?"
+        },
+        {
+            "id": 83,
+            "question": "Do you enjoy surprises or prefer planning things?"
+        },
+        {
+            "id": 84,
+            "question": "What\u2019s your favorite way to stay active?"
+        },
+        {
+            "id": 85,
+            "question": "Do you like watching documentaries?"
+        },
+        {
+            "id": 86,
+            "question": "What\u2019s your favorite kind of sandwich?"
+        },
+        {
+            "id": 87,
+            "question": "Do you prefer live theater or movies?"
+        },
+        {
+            "id": 88,
+            "question": "What\u2019s one thing you\u2019re grateful for today?"
+        },
+        {
+            "id": 89,
+            "question": "Do you like grocery shopping or ordering online?"
+        },
+        {
+            "id": 90,
+            "question": "What\u2019s your favorite way to treat yourself?"
+        },
+        {
+            "id": 91,
+            "question": "Do you enjoy gardening or indoor plants?"
+        },
+        {
+            "id": 92,
+            "question": "What\u2019s a show or series you recommend to everyone?"
+        },
+        {
+            "id": 93,
+            "question": "Do you like writing lists or going with the flow?"
+        },
+        {
+            "id": 94,
+            "question": "What\u2019s one thing you\u2019ve done recently that made you proud?"
+        },
+        {
+            "id": 95,
+            "question": "Do you prefer classic or modern styles?"
+        },
+        {
+            "id": 96,
+            "question": "What\u2019s your favorite kind of cereal?"
+        },
+        {
+            "id": 97,
+            "question": "Do you enjoy hosting or attending events more?"
+        },
+        {
+            "id": 98,
+            "question": "What\u2019s your favorite weekend activity?"
+        },
+        {
+            "id": 99,
+            "question": "Do you prefer spending or saving money?"
+        },
+        {
+            "id": 100,
+            "question": "What\u2019s your favorite way to spend time with friends?"
+        }
+    ]
+}

@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8D6FB4D92DABE75300C1CF38 /* classic_deck.json in Resources */ = {isa = PBXBuildFile; fileRef = 8D6FB4D82DABE75300C1CF38 /* classic_deck.json */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		55E99C092D9344E000BDCDCA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		55E99BF82D9344DC00BDCDCA /* StoreKit Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "StoreKit Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55E99C082D9344E000BDCDCA /* StoreKit ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "StoreKit ProjectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55E99C122D9344E000BDCDCA /* StoreKit ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "StoreKit ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D6FB4D82DABE75300C1CF38 /* classic_deck.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = classic_deck.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		55E99BEF2D9344DC00BDCDCA = {
 			isa = PBXGroup;
 			children = (
+				8D6FB4D82DABE75300C1CF38 /* classic_deck.json */,
 				55E99BFA2D9344DC00BDCDCA /* StoreKit Project */,
 				55E99C0B2D9344E000BDCDCA /* StoreKit ProjectTests */,
 				55E99C152D9344E000BDCDCA /* StoreKit ProjectUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D6FB4D92DABE75300C1CF38 /* classic_deck.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

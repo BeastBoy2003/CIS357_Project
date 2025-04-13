@@ -11,7 +11,8 @@ import SwiftUI
 struct StoreKit_ProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            // ContentView()
+            HomeView()
         }
     }
 }
