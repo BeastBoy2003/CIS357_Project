@@ -11,6 +11,8 @@
 		8D6FB4E22DAC119400C1CF38 /* personal_deck.json in Resources */ = {isa = PBXBuildFile; fileRef = 8D6FB4E12DAC119400C1CF38 /* personal_deck.json */; };
 		8D6FB4E42DAC153500C1CF38 /* funny_deck.json in Resources */ = {isa = PBXBuildFile; fileRef = 8D6FB4E32DAC152800C1CF38 /* funny_deck.json */; };
 		8D6FB4EA2DAC196600C1CF38 /* dare_deck.json in Resources */ = {isa = PBXBuildFile; fileRef = 8D6FB4E82DAC195E00C1CF38 /* dare_deck.json */; };
+		8D6FB4ED2DAD7EF000C1CF38 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D6FB4EC2DAD7EF000C1CF38 /* StoreKit.framework */; };
+		8D6FB4F12DAD80EC00C1CF38 /* CardGameProducts.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 8D6FB4F02DAD80EC00C1CF38 /* CardGameProducts.storekit */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		8D6FB4E12DAC119400C1CF38 /* personal_deck.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = personal_deck.json; sourceTree = "<group>"; };
 		8D6FB4E32DAC152800C1CF38 /* funny_deck.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = funny_deck.json; sourceTree = "<group>"; };
 		8D6FB4E82DAC195E00C1CF38 /* dare_deck.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = dare_deck.json; sourceTree = "<group>"; };
+		8D6FB4EC2DAD7EF000C1CF38 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		8D6FB4F02DAD80EC00C1CF38 /* CardGameProducts.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = CardGameProducts.storekit; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -63,6 +67,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D6FB4ED2DAD7EF000C1CF38 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,6 +91,7 @@
 		55E99BEF2D9344DC00BDCDCA = {
 			isa = PBXGroup;
 			children = (
+				8D6FB4F02DAD80EC00C1CF38 /* CardGameProducts.storekit */,
 				8D6FB4E12DAC119400C1CF38 /* personal_deck.json */,
 				8D6FB4D82DABE75300C1CF38 /* classic_deck.json */,
 				8D6FB4E82DAC195E00C1CF38 /* dare_deck.json */,
@@ -93,6 +99,7 @@
 				55E99BFA2D9344DC00BDCDCA /* StoreKit Project */,
 				55E99C0B2D9344E000BDCDCA /* StoreKit ProjectTests */,
 				55E99C152D9344E000BDCDCA /* StoreKit ProjectUITests */,
+				8D6FB4EB2DAD7EF000C1CF38 /* Frameworks */,
 				55E99BF92D9344DC00BDCDCA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -105,6 +112,14 @@
 				55E99C122D9344E000BDCDCA /* StoreKit ProjectUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		8D6FB4EB2DAD7EF000C1CF38 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8D6FB4EC2DAD7EF000C1CF38 /* StoreKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,6 +243,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D6FB4E22DAC119400C1CF38 /* personal_deck.json in Resources */,
+				8D6FB4F12DAD80EC00C1CF38 /* CardGameProducts.storekit in Resources */,
 				8D6FB4EA2DAC196600C1CF38 /* dare_deck.json in Resources */,
 				8D6FB4E42DAC153500C1CF38 /* funny_deck.json in Resources */,
 				8D6FB4D92DABE75300C1CF38 /* classic_deck.json in Resources */,

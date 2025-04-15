@@ -13,7 +13,7 @@ struct CardView: View {
     @Environment(\.dismiss) private var dismiss
     
     init(cards: [Card]) {
-        self.cards = cards.shuffled() // Randomize the order of cards
+        self.cards = cards.shuffled() 
     }
     
     var body: some View {
