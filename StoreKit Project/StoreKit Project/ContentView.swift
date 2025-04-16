@@ -19,13 +19,16 @@ struct ContentView: View {
                 .ignoresSafeArea()
 
                 VStack {
-                    Text("Welcome to the Card Game!")
+                    Text("🤪")
+                        .font(.system(size: 150))
+                        .padding()
+                    Text("Deck'd Out!")
                         .font(.largeTitle)
                         .foregroundColor(.white)
                         .padding()
 
                     NavigationLink(destination: HomeView()) {
-                        Text("Click here to play")
+                        Text("play")
                             .padding()
                             .background(Color.black)
                             .foregroundColor(.white)

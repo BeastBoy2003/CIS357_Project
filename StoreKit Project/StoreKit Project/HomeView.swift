@@ -35,18 +35,16 @@ struct HomeView: View {
                     
                     HStack {
                         Button(action: {
-                            if currentDeckIndex > 0 {
-                                currentDeckIndex -= 1
+                                
+                                currentDeckIndex = (currentDeckIndex - 1 + decks.count) % decks.count
+                            }) {
+                                Image(systemName: "arrow.left.circle.fill")
+                                    .foregroundColor(.white)
+                                    .font(.system(size: 50))
                             }
-                        }) {
-                            Image(systemName: "arrow.left.circle.fill")
-                                .foregroundColor(.white)
-                                .font(.system(size: 50))
-                        }
-                        .padding()
-                        .disabled(currentDeckIndex == 0)
-                        
-                        Spacer()
+                            .padding()
+                            
+                            Spacer()
                         
                         if storeManager.isDeckPurchased(decks[currentDeckIndex]) {
                             NavigationLink {
@@ -90,18 +88,16 @@ struct HomeView: View {
                         }
                         
                         Spacer()
-                        
-                        Button(action: {
-                            if currentDeckIndex < decks.count - 1 {
-                                currentDeckIndex += 1
+                            
+                            Button(action: {
+                                
+                                currentDeckIndex = (currentDeckIndex + 1) % decks.count
+                            }) {
+                                Image(systemName: "arrow.right.circle.fill")
+                                    .foregroundColor(.white)
+                                    .font(.system(size: 50))
                             }
-                        }) {
-                            Image(systemName: "arrow.right.circle.fill")
-                                .foregroundColor(.white)
-                                .font(.system(size: 50))
-                        }
-                        .padding()
-                        .disabled(currentDeckIndex == decks.count - 1)
+                            .padding()
                     }
                 }
             }
