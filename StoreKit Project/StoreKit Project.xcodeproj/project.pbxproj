@@ -13,6 +13,7 @@
 		8D6FB4EA2DAC196600C1CF38 /* dare_deck.json in Resources */ = {isa = PBXBuildFile; fileRef = 8D6FB4E82DAC195E00C1CF38 /* dare_deck.json */; };
 		8D6FB4ED2DAD7EF000C1CF38 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D6FB4EC2DAD7EF000C1CF38 /* StoreKit.framework */; };
 		8D6FB4F12DAD80EC00C1CF38 /* CardGameProducts.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 8D6FB4F02DAD80EC00C1CF38 /* CardGameProducts.storekit */; };
+		8D9687342DB0479500FC86DC /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D9687332DB0479400FC86DC /* smiley.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		8D6FB4E82DAC195E00C1CF38 /* dare_deck.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = dare_deck.json; sourceTree = "<group>"; };
 		8D6FB4EC2DAD7EF000C1CF38 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		8D6FB4F02DAD80EC00C1CF38 /* CardGameProducts.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = CardGameProducts.storekit; sourceTree = "<group>"; };
+		8D9687332DB0479400FC86DC /* smiley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smiley.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -96,6 +98,7 @@
 				8D6FB4D82DABE75300C1CF38 /* classic_deck.json */,
 				8D6FB4E82DAC195E00C1CF38 /* dare_deck.json */,
 				8D6FB4E32DAC152800C1CF38 /* funny_deck.json */,
+				8D9687332DB0479400FC86DC /* smiley.png */,
 				55E99BFA2D9344DC00BDCDCA /* StoreKit Project */,
 				55E99C0B2D9344E000BDCDCA /* StoreKit ProjectTests */,
 				55E99C152D9344E000BDCDCA /* StoreKit ProjectUITests */,
@@ -242,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D9687342DB0479500FC86DC /* smiley.png in Resources */,
 				8D6FB4E22DAC119400C1CF38 /* personal_deck.json in Resources */,
 				8D6FB4F12DAD80EC00C1CF38 /* CardGameProducts.storekit in Resources */,
 				8D6FB4EA2DAC196600C1CF38 /* dare_deck.json in Resources */,

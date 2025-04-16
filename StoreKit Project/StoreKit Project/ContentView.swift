@@ -28,12 +28,14 @@ struct ContentView: View {
                         .padding()
 
                     NavigationLink(destination: HomeView()) {
-                        Text("play")
-                            .padding()
-                            .background(Color.black)
+
+                        Text("Play")
                             .foregroundColor(.white)
-                            .cornerRadius(20)
                             .font(.title2)
+                            .padding(.vertical, 10)
+                            .padding(.horizontal, 20)
+                            .background(.black)
+                            .clipShape(Capsule())
                     }
                 }
             }

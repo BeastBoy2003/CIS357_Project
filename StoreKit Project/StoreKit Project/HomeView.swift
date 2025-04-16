@@ -5,6 +5,8 @@
 //  Created by Jacob D. Sanchez-Puentes on 3/27/25.
 //
 
+
+
 import SwiftUI
 import StoreKit
 
@@ -12,6 +14,7 @@ struct HomeView: View {
     @StateObject private var storeManager = StoreManager()
     @State private var currentDeckIndex = 0
     @State private var decks = ["Classic Deck", "Personal Deck", "Funny Deck", "Dare Deck"]
+    
     
     var body: some View {
         NavigationStack {
